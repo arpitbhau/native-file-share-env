@@ -1,6 +1,6 @@
 # 🚀 Native File Share Environment
 
-A lightweight and user-friendly web application for temporary file sharing within a local network. Built with Node.js, Express, and modern web technologies.
+A lightweight and user-friendly web application for temporary file sharing within a local network. Built with Node.js, Express.
 
 ## ✨ Features
 
@@ -44,4 +44,3 @@ A lightweight and user-friendly web application for temporary file sharing withi
 
 6. 🌐 Access the application:
    - Open `http://anyLocalIpOfYourSystemHas:3000` in your browser
-   - Or use your local IP address to access from other devices
