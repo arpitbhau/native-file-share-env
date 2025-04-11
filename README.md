@@ -45,15 +45,3 @@ A lightweight and user-friendly web application for temporary file sharing withi
 6. 🌐 Access the application:
    - Open `http://anyLocalIpOfYourSystemHas:3000` in your browser
    - Or use your local IP address to access from other devices
-
-## 👥 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
-
-Please make sure to update tests as appropriate and follow the existing code style.
